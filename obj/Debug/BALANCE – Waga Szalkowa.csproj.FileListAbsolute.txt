@@ -1,0 +1,12 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\bin\Debug\BALANCE – Waga Szalkowa.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BALANCE – Waga Szalkowa\obj\Debug\BALANCE – Waga Szalkowa.pdb
